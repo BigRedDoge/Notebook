@@ -1,18 +1,19 @@
 ---
 id: 34dvubsnwoucrpcwzx27s79
-title: Target Inflation
-desc: ''
+title: 'Target Inflation'
+desc: ""
 updated: 1645657295188
-created: 1645654480910
+created: 2022-02-23T22:14:40.910Z
+modified: 2022-02-25T17:14:19.061Z
 ---
-### Change of Target Inflation
+# Change of Target Inflation
 **"Inflation is a natural pheonenon" -Mitton Friedman**
 
 **Initial Inflation Rate: $\Pi_1^{T}$ (the Fed's target)**
 
 - The Fed believes they should raise $\Pi_1^{T}$ to $\Pi_3^{T}$
 
-**How can the Fed change the Target Inflation?**
+#### How can the Fed change the Target Inflation?
 - Autonomous expansionary monetary policy.
 	- AD shift $\uparrow$ 
 	- Economy A $\rightarrow$ B:
@@ -22,9 +23,17 @@ created: 1645654480910
 1. The Fed can pick $\Pi^T$ through autonomous monetary policy
 2. In the Long Run, natural rate at output is independent to monetary policy
 
-**Inflation**
+#### Inflation
 1. Cost-push inflation (Supply)
-2. Demand-pull inflation (Demand)
-	$\Pi \uparrow \text{, } u \downarrow$
+- $u > u_n ,\space \Pi \uparrow$
+3. Demand-pull inflation (Demand)
+	$u < u_n, \space \Pi \uparrow \text{, } u \downarrow$
+
+- The Fed/government tries to set $Y=Y_1 > Y_N$
+- The Fed
+  - Autonomous expandionary monetary policy
+  - AD shifts upward'
+  - Inflation rates go up insantly
 
 
+    

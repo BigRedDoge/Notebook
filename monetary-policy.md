@@ -1,10 +1,4 @@
 ---
-id: stpeuymzrwyrlnai046t81p
-title: Monetary Policy
-desc: ''
-updated: 1645656621788
-created: 1645654289216
+created: 2022-02-24T00:17:26.291Z
+modified: 2022-02-24T00:17:26.291Z
 ---
-
-## Index
-- [[Chapter 23|monetary-policy.chapter-23]]
